@@ -1,4 +1,4 @@
-# Lab-2
+# lab project
 (i) Pre-processing - with good documentations, comments, codes, what-why-how analysis, plots, etc.
 
 (ii) Learning models analyzed - with good documentations, comments, codes, what-why-how analysis, overfitting/underfitting issues on models by plots such as classification errors (training error/validation error) plots, etc.
